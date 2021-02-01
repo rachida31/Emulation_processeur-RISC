@@ -1,0 +1,77 @@
+ligne 1 : L'erreur est dans le mot ÿØÿà. Ce lexique n'appartient pas Ã  notre langage 
+ligne 2 : L'erreur est dans le mot . Ce lexique n'appartient pas Ã  notre langage 
+ligne 3 : L'erreur est dans le mot . Ce lexique n'appartient pas Ã  notre langage 
+ligne 4 : L'erreur est dans le mot ÿÛ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 5 : L'erreur est dans le mot ÿÄ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 6 : L'erreur est dans le mot %&'. Ce lexique n'appartient pas Ã  notre langage 
+ligne 6 : L'erreur est dans le mot *456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚáâãäåæçèéêñòóôõö÷øùúÿÄ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 7 : L'erreur est dans le mot ÿÄ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 8 : L'erreur est dans le mot $4á%ñ&'. Ce lexique n'appartient pas Ã  notre langage 
+ligne 8 : L'erreur est dans le mot *56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz‚ƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæçèéêòóôõö÷øùúÿÚ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 9 : L'erreur est dans le mot øírñÔ^Oş³ıUeRkÙšÓş!·uñ‡Ç¼?ëşkôÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 10 : L'erreur est dans le mot \ñÊââıÕ·ï?Öÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 11 : L'erreur est dans le mot ù’ª»ş³TËØQìz<¿¾&Åeü\_ù§ş£·ür¬éş$Í. Ce lexique n'appartient pas Ã  notre langage 
+ligne 11 : L'erreur est dans le mot ~gÄ_ùi×ş'·ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 12 : L'erreur est dans le mot ’øJµŸúj?ø%fQGµªU¡ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 13 : L'erreur est dans le mot 5{šıR‡üúF”^. Ce lexique n'appartient pas Ã  notre langage 
+ligne 13 : L'erreur est dans le mot ×O]gPÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 14 : L'erreur est dans le mot ÕVª'„¡ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 15 : L'erreur est dans le mot =­SZxZi!¿ğ•k¿ôÔğ.JÌ¿ñOˆ„_»×µ_ü’¯KU–Ò²öµMş¯„ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 16 : L'erreur est dans le mot ßùkq~Õ¤Ğõ/³IşªJ=­Z”ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 17 : L'erreur est dans le mot ÏÃ†¦üú15Oÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 18 : L'erreur est dans le mot ‹Ë“şg‹ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 19 : L'erreur est dans le mot ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 20 : L'erreur est dans le mot G¨y¾Vgş¶J³. Ce lexique n'appartient pas Ã  notre langage 
+ligne 20 : L'erreur est dans le mot ŞTrÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 21 : L'erreur est dans le mot F×÷µ§LĞH¿ÖÕºŠŠÔÔ–ŠŠ’/ßPdMO¢—şZĞj%KE. Ce lexique n'appartient pas Ã  notre langage 
+ligne 22 : L'erreur est dans le mot ¶~t±Gÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 23 : L'erreur est dans le mot -ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 24 : L'erreur est dans le mot ªµÁâ>«Póñ”ş³LõI|©£ûLu{K—Í‹Ë“ımsÚ^­û¿Şª­?õ?¼ó?u'úºıg.Ä{SófÙ•$uZÖo:/úkR×¿í¥2j. Ce lexique n'appartient pas Ã  notre langage 
+ligne 24 : L'erreur est dans le mot §Pd6Šu“ö§~=øÏAl?òZ*ò;Ÿùe^±ûW|xñ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 24 : L'erreur est dans le mot Ÿõíÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 25 : L'erreur est dans le mot û¨£ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 26 : L'erreur est dans le mot Í‰"¥¢¥ ÔŠ¤¢òªÍ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 27 : L'erreur est dans le mot í:M'Qûgü³’¯ZËæÇåÛXëOK–?x_Ìÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 28 : L'erreur est dans le mot ™zÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 29 : L'erreur est dans le mot Eÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 30 : L'erreur est dans le mot õU¯ı{9ëàizt~W™ş«şzÕmS\ı×Ùíÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 31 : L'erreur est dans le mot –6¢‹µKZ™y¾Õ°ÔŸº£Ê÷¢¡‘‡ªZWŸx£Nÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 32 : L'erreur est dans le mot ñş¶ŠgUJ~ĞÈğ–­ûß±\Iÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 33 : L'erreur est dans le mot Óıe^×¡[Ñ-®cÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 34 : L'erreur est dans le mot £I]¿f»ıß—ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 35 : L'erreur est dans le mot æÇØàéŞ§îÌ=fîK»ïúgY—W½òã©n®ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 36 : L'erreur est dans le mot é•v–¾]Ü¾_ú¨¿å¥?veO÷…Nïı&Oİ[Gş¯şšTº÷ˆ~Éû»z«ªjßd¶ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 37 : L'erreur est dans le mot >©îë– éÔ<gÅºOúÚğ_é>L¾e}Qâ=;ÍŠ¼/Çš'úÚä=šu›µ˜¼ï7Ëÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 38 : L'erreur est dans le mot şÏ“Ìÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 39 : L'erreur est dans le mot µâó4é?´tÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 40 : L'erreur est dans le mot î?/÷uÏk7òÎ:øštı£Ôûz…«¹.åòãÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 41 : L'erreur est dans le mot ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 42 : L'erreur est dans le mot Ú/İÉ'ïiûC?fz§D]«‡Òüom4ë#­ˆµÈæÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 43 : L'erreur est dans le mot şÙËYâ0şÕÓÙÏªZaêÑ^Ûÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 44 : L'erreur est dans le mot $ò£»Ûı&8eó#®g]ó"òîcÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 45 : L'erreur est dans le mot 4é4Kï2ß÷±IAËüC³şÎ¶ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 46 : L'erreur est dans le mot ÇeJ†Äww!½ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 47 : L'erreur est dans le mot õF°ô¸¿w]¬5ãñ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 47 : L'erreur est dans le mot ]ªZŠY|š<ê‰|Ú½j¡bx£Å‘é1yëe­F•ö:SÄöZOúÉ?{^}¯|Ròd—ìõÃë>!¹»¹ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 48 : L'erreur est dans le mot ~Ìò0™…Ll?†yÌ_µ¹|Èä«ßğ›ê3ËÌr×Auğ^÷Iÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 49 : L'erreur est dans le mot &¥:tıÃé­ÆöÚŒuĞÚİÇ-|İá/Û]Û[Iÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 50 : L'erreur est dans le mot OQ»“Ëó++U¨;Òîw¾-†Úhÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 51 : L'erreur est dans le mot Øå½Œ#Ù˜Ô¦Uğn­ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 52 : L'erreur est dans le mot Ÿˆ674ic»¶ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 53 : L'erreur est dans le mot bıewº6‰Üq[G•m^ğç‡¬´è¢ËıÕvèÚu—™$~UrÔ©ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 54 : L'erreur est dans le mot jd‹Ë¬æ+kŞ!C²—şz×øËÃÚ÷í¢şË¹ò®|Ï7ıg•]Åşs«^şó÷±Wg é1ÚGîè:p•ê`ëıb™ç>Ó¬´›í3AÔ>Ñ.±'î¤—Ëı×›^mnxsÆZ,. Ce lexique n'appartient pas Ã  notre langage 
+ligne 54 : L'erreur est dans le mot Qı§Ìıßú¿İWŸi~1ÇŸmµ.dÒôÍ:çş%º\VR¤Ëÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 55 : L'erreur est dans le mot Áßü'Óµoí·º„¶ŞgÚ²üÏôo3ş¹WUıŸZRùu¿ë<ºÖ¥LE_âÓÃÓ¥ü3]&?ùç\ü+ˆâÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 56 : L'erreur est dans le mot kš¶Ÿ¦ÜÜë\VŞgúÙçkËà&çÌòÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 57 : L'erreur est dans le mot ‚Z_6«KAÌIÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 58 : L'erreur est dans le mot Ò¥ˆ‡µzµ^§ÕÖuİ\Ç¥Üıªú9-¬noü¨ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 59 : L'erreur est dans le mot ¿w^}.•º”qÉ'•Ÿë%¯®®¾[Kı§syş•}{'›æù~W—ü²Š¼×Å¿­¡ów]8¬e<Eİø-L/V™ã7—K¿–êÒÊâëMÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 60 : L'erreur est dans le mot ¨Øÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 62 : L'erreur est dans le mot şòã÷²ÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 63 : L'erreur est dans le mot ²şæ²%Óä»¹ó$­'Í–­EpĞeP«k§Gu/EÔÕ™çV”Â™±Õ'åVoÚê+ır;H¼Úëä4²}Ï;ÉŠ£şÖÊıä•óçÄßØwÒùr~ö?ùe^M¯~Ğš¶£/—æı–/ùë]4ğõ*æ¨ğô¿ˆ}‰ªxŸMÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 64 : L'erreur est dans le mot •N¸ü=ÏĞÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 65 : L'erreur est dans le mot ©Jÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 66 : L'erreur est dans le mot Œ¬¦—ıerÔ©íu:}ŸJtÎ—Éóe©éaÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 67 : L'erreur est dans le mot OJŸÛ=Š#môºMÅÍ¿úDŸ»‹Ìÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 68 : L'erreur est dans le mot 1Iÿ. Ce lexique n'appartient pas Ã  notre langage 
+ligne 69 : L'erreur est dans le mot JıJõ&‘ñX_÷jG[ã4˜¼»õµÆ_øçQ—÷’y¿ôÖ‹û¯µGÿ. Ce lexique n'appartient pas Ã  notre langage 

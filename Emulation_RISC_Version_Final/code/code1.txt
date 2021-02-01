@@ -1,0 +1,14 @@
+@x = 0
+@y = 24
+
+
+LI R1,0
+LI R2,10
+LI R3,8
+LI R4,5
+LI R5,2
+LI R6,7
+LI R7,4
+SW @X(R1),R2
+ADD R1,R1,R7
+ADD R

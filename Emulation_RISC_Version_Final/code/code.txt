@@ -1,0 +1,12 @@
+@x = 100
+
+
+
+
+LI R1,1
+LI R2,0
+LI R3,3
+ADD R2,R2,R1 
+SLT R4,R2,R3 
+BNEZ R4,-8 
+sw @x(R0),R2
